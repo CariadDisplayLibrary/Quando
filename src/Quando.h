@@ -1,7 +1,7 @@
 #ifndef _QUANDO_H
 #define _QUANDO_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Quando10[];
